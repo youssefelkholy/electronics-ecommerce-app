@@ -1,0 +1,14 @@
+.rating {
+    text-align: center;
+}
+
+.rating .icon {
+    color: #ffc107e3;
+    margin: 0 2px;
+    font-weight: 500;
+}
+
+.desc {
+    color: var(--primary-color);
+    font-weight: bold;
+}

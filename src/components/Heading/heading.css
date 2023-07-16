@@ -1,0 +1,28 @@
+.heading {
+    padding: 20px 5px;
+    margin: 10px 20px;
+}
+
+.heading .heading-title {
+    font-size: 25px;
+    font-weight: bold;
+    color: var(--primary-color);
+    position: relative;
+}
+
+.heading .heading-title::after {
+    content: "";
+    position: absolute;
+    right: 0;
+    bottom: -20px;
+    width: 200px;
+    height: 4px;
+    background-color: var(--primary-color);
+}
+
+@media (max-width:520px) {
+
+    .heading .heading-title {
+        font-size: 20px;
+    }
+}

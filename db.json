@@ -1,0 +1,244 @@
+{
+	"products": [
+		{
+			"id": 1,
+			"title": "اتش بی الیت بوك الجیل الثانی",
+			"image": "/images/products/laptops/l1.jpg",
+			"price": 750,
+			"rating": 4.5,
+			"reviews": "900",
+			"isLaptop": true
+		},
+		{
+			"id": 2,
+			"title": "لابتوب ایسر نیترو 515-5",
+			"image": "/images/products/laptops/l2.jpg",
+			"price": 600,
+			"rating": 3.8,
+			"reviews": "250",
+			"isLaptop": true
+		},
+		{
+			"id": 3,
+			"title": "لابتوب هواوی میت بوک 14",
+			"image": "/images/products/laptops/l3.jpg",
+			"price": 800,
+			"rating": 4.6,
+			"reviews": "1,200",
+			"isLaptop": true
+		},
+		{
+			"id": 4,
+			"title": "لابتوب جیمنق اسوس - 571GT",
+			"image": "/images/products/laptops/l4.jpg",
+			"price": 950,
+			"rating": 4.1,
+			"reviews": "7,548",
+			"isLaptop": true
+		},
+		{
+			"id": 5,
+			"title": "لابتوب اسوس تی یو اف 15",
+			"image": "/images/products/laptops/l1.jpg",
+			"price": 700,
+			"rating": 4.5,
+			"reviews": "2,200",
+			"isLaptop": true
+		},
+		{
+			"id": 6,
+			"title": "اسوس للالعاب F15",
+			"image": "/images/products/laptops/l6.jpg",
+			"price": 990,
+			"rating": 4.8,
+			"reviews": "5,500",
+			"isLaptop": true
+		},
+		{
+			"id": 7,
+			"title": "لینوفو ایدیا باد فلکس 5",
+			"image": "/images/products/laptops/l7.jpg",
+			"price": 500,
+			"rating": 4.2,
+			"reviews": "850",
+			"isLaptop": true
+		},
+		{
+			"id": 8,
+			"title": "مایکروسوفت سیرفس جو 2",
+			"image": "/images/products/laptops/l8.jpg",
+			"price": 850,
+			"rating": 4.7,
+			"reviews": "8,200",
+			"isLaptop": true
+		},
+		{
+			"id": 9,
+			"title": "مایکروسوفت سیرفس برو 8",
+			"image": "/images/products/laptops/l8.jpg",
+			"price": 900,
+			"rating": 4.1,
+			"reviews": "1,895",
+			"isLaptop": true
+		},
+		{
+			"id": 10,
+			"title": "لابتوب فیفوبوك من اسوس",
+			"image": "/images/products/laptops/l10.jpg",
+			"price": 680,
+			"rating": 3.5,
+			"reviews": "8,124",
+			"isLaptop": true
+		},
+		{
+			"id": 11,
+			"title": "أيفون إكس إس ماكس 512GB",
+			"image": "/images/products/mobiles/m1.jpg",
+			"price": 800,
+			"rating": 4.9,
+			"reviews": "8,240",
+			"isLaptop": false,
+			"category": "iphone"
+		},
+		{
+			"id": 12,
+			"title": "سامسونج جالكسی M33",
+			"image": "/images/products/mobiles/m2.jpg",
+			"price": 350,
+			"rating": 4.5,
+			"reviews": "9,014",
+			"isLaptop": false,
+			"category": "samsung"
+		},
+		{
+			"id": 13,
+			"title": "سامسونج جالكسي M52S",
+			"image": "/images/products/mobiles/m3.jpg",
+			"price": 200,
+			"rating": 3.5,
+			"reviews": "7,784",
+			"isLaptop": false,
+			"category": "samsung"
+		},
+		{
+			"id": 14,
+			"title": " أيفون 8 بلس 64GB",
+			"image": "/images/products/mobiles/m4.jpg",
+			"price": 250,
+			"rating": 4.5,
+			"reviews": "2,401",
+			"isLaptop": false,
+			"category": "iphone"
+		},
+		{
+			"id": 15,
+			"title": "سامسونج جالكسی ZFold",
+			"image": "/images/products/mobiles/m5.jpg",
+			"price": 290,
+			"rating": 3.0,
+			"reviews": "420",
+			"isLaptop": false,
+			"category": "samsung"
+		},
+		{
+			"id": 16,
+			"title": "سامسونج جالكسي M32",
+			"image": "/images/products/mobiles/m6.jpg",
+			"price": 750,
+			"rating": 5,
+			"reviews": "1,500",
+			"isLaptop": false,
+			"category": "samsung"
+		},
+		{
+			"id": 17,
+			"title": "أيفون 12 برو 128GB",
+			"image": "/images/products/mobiles/m7.jpg",
+			"price": 700,
+			"rating": 4.5,
+			"reviews": "4,540",
+			"isLaptop": false,
+			"category": "iphone"
+		},
+		{
+			"id": 18,
+			"title": "شاومي Mi 9t",
+			"image": "/images/products/mobiles/m8.jpg",
+			"price": 500,
+			"rating": 4.5,
+			"reviews": "17,124",
+			"isLaptop": false,
+			"category": "xioami"
+		},
+		{
+			"id": 19,
+			"title": "سامسونج s22 ultra",
+			"image": "/images/products/mobiles/m9.jpg",
+			"price": 470,
+			"rating": 4.0,
+			"reviews": "4,700",
+			"isLaptop": false,
+			"category": "samsung"
+		},
+		{
+			"id": 20,
+			"title": "سامسونج جالكسي نوت 10 لايت",
+			"image": "/images/products/mobiles/m10.jpg",
+			"price": 850,
+			"rating": 5,
+			"reviews": "2,300",
+			"isLaptop": false,
+			"category": "samsung"
+		},
+		{
+			"id": 21,
+			"title": "نوكيا 330 زراير ",
+			"image": "/images/products/mobiles/m11.jpg",
+			"price": 40,
+			"rating": 4.1,
+			"reviews": "850",
+			"isLaptop": false,
+			"category": "nokia"
+		},
+		{
+			"id": 22,
+			"title": "سامسونج جالسکی ام 12 لایت",
+			"image": "/images/products/mobiles/m12.jpg",
+			"price": 620,
+			"rating": 5,
+			"reviews": "7,500",
+			"isLaptop": false,
+			"category": "samsung"
+		},
+		{
+			"id": 23,
+			"title": "هواوی نوفا 9",
+			"image": "/images/products/mobiles/m13.jpg",
+			"price": 250,
+			"rating": 3.5,
+			"reviews": "1,784",
+			"isLaptop": false,
+			"category": "huawei"
+		},
+		{
+			"id": 24,
+			"title": "هواوي y9 prime 2019 128gb",
+			"image": "/images/products/mobiles/m14.jpg",
+			"price": 320,
+			"rating": 4.1,
+			"reviews": "8,102",
+			"isLaptop": false,
+			"category": "huawei"
+		},
+		{
+			"id": 25,
+			"title": "أيفون 14 برو ماكس 256GB",
+			"image": "/images/products/mobiles/m15.jpg",
+			"price": 950,
+			"rating": 4.5,
+			"reviews": "10,150",
+			"isLaptop": false,
+			"category": "iphone"
+		}
+	]
+}

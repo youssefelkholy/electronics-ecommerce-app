@@ -1,0 +1,30 @@
+.brands-wrapper {
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.brand {
+    width: 24%;
+    height: 110px;
+    padding: 5px;
+    background-color: var(--white-color);
+    margin-bottom: 20px;
+    border-radius: 30px;
+    overflow: hidden;
+    text-align: center;
+}
+
+.brand-img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+@media (max-width:520px) {
+    .brand {
+        width: 49%;
+    }
+}
